@@ -7,7 +7,7 @@
 
 </br>
 
-## Descarga
+## Descarga ( LAS IMÁGENES CORRESPONDEN A OTROS REPOSITORIOS DE OTRO CURSO... MISMA FORMA, DIFERENTES NOMBRES )
 ### Todos los Archivos del Repositorio
 * Click sobre el boton ```CODE``` y ```DOWNLOAD``` (Luego podrás abrir directamente con tu IDE ).
 
